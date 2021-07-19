@@ -7,6 +7,6 @@ for i in sSet:
     count_result.append(s.count(i))
 
 if len(count_result) == 1 or sorted(count_result)[0] != sorted(count_result)[1]:
-    print(sSet[count_result.index(max(count_result))])
+    print(str(sSet[count_result.index(max(count_result))]))
 else:
     print("?")
