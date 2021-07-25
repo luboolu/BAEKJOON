@@ -15,9 +15,7 @@ print(sum)
 m = n
 if n % 2 == 0:
     #n 짝수
-    while True:
-
-        if sum ==
+    pass
 
 else:
     #n 홀수
