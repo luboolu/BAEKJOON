@@ -18,5 +18,3 @@ input = input.replacingOccurrences(of: c, with: "!")
 }
 
 print(Array(input).count)
-
-
